@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MensajeController {
 	@GetMapping("mensaje")
 	public String Mensaje(){
-		return("Aplicaci√≥n web muy simple");
+		return("Buenos DÌas USACH");
 	}
 }
